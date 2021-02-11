@@ -1,0 +1,20 @@
+Trail: 16
+Red squirrels: 8
+Grey squirrels: 7
+
+Grey squirrel
+Red squirrel
+Red squirrel
+Red squirrel
+Grey squirrel
+Grey squirrel
+Red squirrel
+Red squirrel
+Grey squirrel
+Grey squirrel
+Grey squirrel
+Red squirrel
+Grey squirrel
+Red squirrel
+Red squirrel
+Fox squirrel
