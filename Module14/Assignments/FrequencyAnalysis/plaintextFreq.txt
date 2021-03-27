@@ -1,0 +1,130 @@
+Character: a
+Frequency (integer): 535
+Frequency (percent): 6.2%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: b
+Frequency (integer): 108
+Frequency (percent): 1.2%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: c
+Frequency (integer): 176
+Frequency (percent): 2.0%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: d
+Frequency (integer): 244
+Frequency (percent): 2.8000000000000003%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: e
+Frequency (integer): 866
+Frequency (percent): 10.0%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: f
+Frequency (integer): 218
+Frequency (percent): 2.5%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: g
+Frequency (integer): 169
+Frequency (percent): 2.0%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: h
+Frequency (integer): 361
+Frequency (percent): 4.2%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: i
+Frequency (integer): 530
+Frequency (percent): 6.1%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: j
+Frequency (integer): 20
+Frequency (percent): 0.2%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: k
+Frequency (integer): 51
+Frequency (percent): 0.6%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: l
+Frequency (integer): 329
+Frequency (percent): 3.8%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: m
+Frequency (integer): 185
+Frequency (percent): 2.1%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: n
+Frequency (integer): 464
+Frequency (percent): 5.4%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: o
+Frequency (integer): 581
+Frequency (percent): 6.7%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: p
+Frequency (integer): 96
+Frequency (percent): 1.0999999999999999%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: q
+Frequency (integer): 6
+Frequency (percent): 0.1%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: r
+Frequency (integer): 407
+Frequency (percent): 4.7%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: s
+Frequency (integer): 404
+Frequency (percent): 4.7%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: t
+Frequency (integer): 652
+Frequency (percent): 7.5%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: u
+Frequency (integer): 173
+Frequency (percent): 2.0%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: v
+Frequency (integer): 77
+Frequency (percent): 0.8999999999999999%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: w
+Frequency (integer): 150
+Frequency (percent): 1.7000000000000002%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: x
+Frequency (integer): 5
+Frequency (percent): 0.1%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: y
+Frequency (integer): 112
+Frequency (percent): 1.3%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
+Character: z
+Frequency (integer): 5
+Frequency (percent): 0.1%
+Sample path: Module14/Assignments/FrequencyAnalysis/plaintext.txt
+
